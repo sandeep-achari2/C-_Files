@@ -1,0 +1,14 @@
+C:\Users\le\source\repos\CustomProducts\CustomProducts\bin\Debug\net8.0\CustomProducts.exe
+C:\Users\le\source\repos\CustomProducts\CustomProducts\bin\Debug\net8.0\CustomProducts.deps.json
+C:\Users\le\source\repos\CustomProducts\CustomProducts\bin\Debug\net8.0\CustomProducts.runtimeconfig.json
+C:\Users\le\source\repos\CustomProducts\CustomProducts\bin\Debug\net8.0\CustomProducts.dll
+C:\Users\le\source\repos\CustomProducts\CustomProducts\bin\Debug\net8.0\CustomProducts.pdb
+C:\Users\le\source\repos\CustomProducts\CustomProducts\obj\Debug\net8.0\CustomProducts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\le\source\repos\CustomProducts\CustomProducts\obj\Debug\net8.0\CustomProducts.AssemblyInfoInputs.cache
+C:\Users\le\source\repos\CustomProducts\CustomProducts\obj\Debug\net8.0\CustomProducts.AssemblyInfo.cs
+C:\Users\le\source\repos\CustomProducts\CustomProducts\obj\Debug\net8.0\CustomProducts.csproj.CoreCompileInputs.cache
+C:\Users\le\source\repos\CustomProducts\CustomProducts\obj\Debug\net8.0\CustomProducts.dll
+C:\Users\le\source\repos\CustomProducts\CustomProducts\obj\Debug\net8.0\refint\CustomProducts.dll
+C:\Users\le\source\repos\CustomProducts\CustomProducts\obj\Debug\net8.0\CustomProducts.pdb
+C:\Users\le\source\repos\CustomProducts\CustomProducts\obj\Debug\net8.0\CustomProducts.genruntimeconfig.cache
+C:\Users\le\source\repos\CustomProducts\CustomProducts\obj\Debug\net8.0\ref\CustomProducts.dll

@@ -1,0 +1,14 @@
+C:\Users\le\source\repos\CustomProducts\Day2_programs\bin\Debug\net8.0\Day2_programs.exe
+C:\Users\le\source\repos\CustomProducts\Day2_programs\bin\Debug\net8.0\Day2_programs.deps.json
+C:\Users\le\source\repos\CustomProducts\Day2_programs\bin\Debug\net8.0\Day2_programs.runtimeconfig.json
+C:\Users\le\source\repos\CustomProducts\Day2_programs\bin\Debug\net8.0\Day2_programs.dll
+C:\Users\le\source\repos\CustomProducts\Day2_programs\bin\Debug\net8.0\Day2_programs.pdb
+C:\Users\le\source\repos\CustomProducts\Day2_programs\obj\Debug\net8.0\Day2_programs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\le\source\repos\CustomProducts\Day2_programs\obj\Debug\net8.0\Day2_programs.AssemblyInfoInputs.cache
+C:\Users\le\source\repos\CustomProducts\Day2_programs\obj\Debug\net8.0\Day2_programs.AssemblyInfo.cs
+C:\Users\le\source\repos\CustomProducts\Day2_programs\obj\Debug\net8.0\Day2_programs.csproj.CoreCompileInputs.cache
+C:\Users\le\source\repos\CustomProducts\Day2_programs\obj\Debug\net8.0\Day2_programs.dll
+C:\Users\le\source\repos\CustomProducts\Day2_programs\obj\Debug\net8.0\refint\Day2_programs.dll
+C:\Users\le\source\repos\CustomProducts\Day2_programs\obj\Debug\net8.0\Day2_programs.pdb
+C:\Users\le\source\repos\CustomProducts\Day2_programs\obj\Debug\net8.0\Day2_programs.genruntimeconfig.cache
+C:\Users\le\source\repos\CustomProducts\Day2_programs\obj\Debug\net8.0\ref\Day2_programs.dll

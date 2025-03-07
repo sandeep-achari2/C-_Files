@@ -1,0 +1,14 @@
+C:\Users\le\source\repos\CustomProducts\InterfacesExample\bin\Debug\net8.0\InterfacesExample.exe
+C:\Users\le\source\repos\CustomProducts\InterfacesExample\bin\Debug\net8.0\InterfacesExample.deps.json
+C:\Users\le\source\repos\CustomProducts\InterfacesExample\bin\Debug\net8.0\InterfacesExample.runtimeconfig.json
+C:\Users\le\source\repos\CustomProducts\InterfacesExample\bin\Debug\net8.0\InterfacesExample.dll
+C:\Users\le\source\repos\CustomProducts\InterfacesExample\bin\Debug\net8.0\InterfacesExample.pdb
+C:\Users\le\source\repos\CustomProducts\InterfacesExample\obj\Debug\net8.0\InterfacesExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\le\source\repos\CustomProducts\InterfacesExample\obj\Debug\net8.0\InterfacesExample.AssemblyInfoInputs.cache
+C:\Users\le\source\repos\CustomProducts\InterfacesExample\obj\Debug\net8.0\InterfacesExample.AssemblyInfo.cs
+C:\Users\le\source\repos\CustomProducts\InterfacesExample\obj\Debug\net8.0\InterfacesExample.csproj.CoreCompileInputs.cache
+C:\Users\le\source\repos\CustomProducts\InterfacesExample\obj\Debug\net8.0\InterfacesExample.dll
+C:\Users\le\source\repos\CustomProducts\InterfacesExample\obj\Debug\net8.0\refint\InterfacesExample.dll
+C:\Users\le\source\repos\CustomProducts\InterfacesExample\obj\Debug\net8.0\InterfacesExample.pdb
+C:\Users\le\source\repos\CustomProducts\InterfacesExample\obj\Debug\net8.0\InterfacesExample.genruntimeconfig.cache
+C:\Users\le\source\repos\CustomProducts\InterfacesExample\obj\Debug\net8.0\ref\InterfacesExample.dll
